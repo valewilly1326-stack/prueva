@@ -1,2 +1,3 @@
 iniciando el proyecto final V1
 V2 mapa, camara , movivmiento de camara
+V4 el interior de la jarra, pruebas de los bichos bolita
