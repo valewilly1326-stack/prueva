@@ -1,1 +1,2 @@
 iniciando el proyecto final V1
+V2 mapa, camara , movivmiento de camara
